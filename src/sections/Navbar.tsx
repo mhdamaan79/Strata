@@ -1,5 +1,5 @@
 import Image from "next/image";
-import logoImage from "@/assets/images/logo.svg";
+import logoImage from "@/assets/images/logo.png";
 import menu from "@/assets/images/menu.svg";
 import Button from "@/components/Button";
 import Link from "next/link";
@@ -16,12 +16,13 @@ export default function Navbar() {
         <section className="py-4 lg:py-8">
             <div className="container max-w-5xl">
                 <div className="grid grid-cols-2 lg:grid-cols-3 border border-white/15 rounded-full p-2 px-4  md:pr-2 items-center">
-                    <div>
+                    <div className="flex items-center justify-start gap-2">
                         <Image
                             src={logoImage}
                             alt="Strata Logo"
-                            className="h-9 md:h-auto w-auto"
+                            className="h-8 md:h-10 w-auto"
                         />
+                        <h1 className="font-semibold text-2xl md:text-3xl tracking-wide">Strata</h1>
                     </div>
 
                     <div className="lg:flex justify-center items-center hidden">
