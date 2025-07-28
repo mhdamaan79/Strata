@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![Strata_Screenshot](https://github.com/user-attachments/assets/4c4e15a9-7094-4f5e-93d6-dc8b66bbeb8a)
 
-## Getting Started
+# <img src="https://github.com/mhdamaan79/Strata/blob/main/src/assets/images/logo.png" alt="Strata Logo" width="28" style="vertical-align: middle;" /> Strata
 
-First, run the development server:
+A next-level, animated SaaS landing page crafted with **Next.js**, **React**, **Tailwind CSS**, **TypeScript**, and **Framer Motion**. It combines modern motion design with a responsive, high-converting layout - perfect for startups, indie hackers, and frontend showcases.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✦ Tech Stack
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Next.js**
+- **React.js**
+- **TypeScript**
+- **Tailwind CSS**
+- **Framer Motion**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✦ Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Polished Layout** – Includes essential sections like hero, features, testimonials, pricing, CTA, and footer.
+- **Framer Motion Animations** – Smooth, professional UI motion using Framer Motion for scroll and hover effects.
+- **Fully Responsive** – Optimized for desktop, tablet, and mobile breakpoints.
+- **Pixel-Perfect Design** – Crafted with attention to modern UI trends and spacing consistency.
+- **Built with TypeScript** – Ensures better developer experience, type safety, and scalability.
+- **Clean Component Structure** – Modular and reusable code, easy to scale or customize.
+- **Performance-Optimized** – Leveraging Next.js for fast load times and great SEO practices.
 
-## Learn More
+## ✦ Live Demo
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**🔗 Visit Now** → [https://strata-79.vercel.app/](https://strata-79.vercel.app/)
